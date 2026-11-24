@@ -4,7 +4,6 @@ Level 1 Embedded Systems & IoT: read one sensor, drive one output in response.
 
 An ESP32 reads temperature from a DHT22 every 2 seconds. When it rises above
 30 °C an LED turns on; it turns off again below 28 °C.
-
 ## Parts
 | Part | Connection |
 |---|---|
